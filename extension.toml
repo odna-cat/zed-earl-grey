@@ -1,0 +1,7 @@
+id = "earl-grey"
+name = "Earl Grey"
+version = "0.0.1"
+schema_version = 1
+authors = ["odna-cat"]
+description = "A port of Earl Grey color scheme for Zed."
+repository = "https://github.com/odna-cat/zed-earl-grey"
