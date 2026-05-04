@@ -2,7 +2,10 @@
 
 - [] various bars not in the editor
   - [] activity bar
-  - [] status bar
+  - [] title bar
+  - [] status bar - zed insists on one text color for all ui elements so the status bar color has to compromise
 - [] editor
-- [] terminal
+- [x] terminal
 - [x] semantic tokens
+- [x] vim modes (colors subject to change)
+- [ ] players
