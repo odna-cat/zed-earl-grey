@@ -1,8 +1,10 @@
 # Earl Grey theme
 
-Heavily WIP implementation of Earl Grey color theme onto Zed.
+This project has been migrated to [Codeberg](https://codeberg.org/odna-cat/zed-earl-grey) under the same name.
 
-Website: https://earl-grey.halt.wtf
+Earl Grey color theme on Zed.
+
+Original palette: https://earl-grey.halt.wtf
 
 ## Usage
 
@@ -22,3 +24,7 @@ Do either of these two methods.
 ## Note
 
 There are minor differences between this and the official VSCode extension both as a result of Zed having more limited palette customisation, as well as a few tweaks to make a few more sections readable.
+
+# LICENSE
+
+MIT License
